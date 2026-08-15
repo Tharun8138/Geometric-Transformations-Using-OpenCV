@@ -268,7 +268,8 @@ plt.show()
 - Original image is displayed  
 - Translated image (shifted right and down) is displayed
 
-<img width="932" height="297" alt="image" src="https://github.com/user-attachments/assets/a9ee917b-2764-4326-8d1d-0238c440689a" />
+<img width="843" height="519" alt="image" src="https://github.com/user-attachments/assets/2d7fadb5-6e78-4ced-8a52-480f233c0b0a" />
+
 
 
 ### Image Scaling
@@ -276,7 +277,10 @@ plt.show()
 - Downscaled image (0.5×) is displayed  
 - Upscaled image (2×) is displayed
 
-<img width="935" height="197" alt="image" src="https://github.com/user-attachments/assets/7f8b15b7-df4c-4f7e-915b-5a9684fb9823" />
+<img width="338" height="591" alt="image" src="https://github.com/user-attachments/assets/e473644e-8cb1-4a85-adfc-1feb9dedc605" />
+
+<img width="924" height="234" alt="image" src="https://github.com/user-attachments/assets/c60e05d6-3f59-4f26-a4a1-bf334588f559" />
+
 
 
 ### Image Shearing
@@ -284,7 +288,8 @@ plt.show()
 - Horizontally sheared image is displayed  
 - Vertically sheared image is displayed
 
-<img width="925" height="225" alt="image" src="https://github.com/user-attachments/assets/0fa5a9d8-f243-4f06-9805-22bd08f1271b" />
+<img width="801" height="199" alt="image" src="https://github.com/user-attachments/assets/cfa62ca8-5896-4631-867a-2b17bbcba53e" />
+
 
 
 
@@ -294,7 +299,8 @@ plt.show()
 - Vertically flipped image is displayed  
 - Both-axis flipped image is displayed
 
-<img width="922" height="150" alt="image" src="https://github.com/user-attachments/assets/7638b023-e1a2-4a36-b8d3-60fb187aebe2" />
+<img width="926" height="643" alt="image" src="https://github.com/user-attachments/assets/1cf12640-0ed7-4ce3-82f7-b5fd279cfcbe" />
+
   
 
 ### Image Rotation
@@ -302,7 +308,8 @@ plt.show()
 - 45° rotated image is displayed  
 - 90° rotated image is displayed  
 
-<img width="926" height="193" alt="image" src="https://github.com/user-attachments/assets/5aa0a7a6-5e74-4838-9052-83679e79f6ef" />
+<img width="904" height="222" alt="image" src="https://github.com/user-attachments/assets/f969e02a-207c-4015-bfda-ded863580b37" />
+
 
 
 ---
